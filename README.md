@@ -1,6 +1,6 @@
 # react-native-cn-action-menu
 
-![react-native-circular-action-menu demo](http://i.giphy.com/3o6Zt6hNHOd3kVx4aY.gif)
+![react-native-cn-action-menu demo](http://i.giphy.com/3o6Zt6hNHOd3kVx4aY.gif)
 
 ⚡ **Install**
 
@@ -31,7 +31,7 @@ _The following Basic example can be found in `example/Basic`._
 
 ```js
 import React, { Component, StyleSheet, View } from 'react-native';
-import ActionButton from 'react-native-circular-action-menu';
+import ActionButton from 'react-native-cn-action-menu';
 import Icon from 'react-native-vector-icons/Ionicons';
 
 
