@@ -1,0 +1,25 @@
+{
+  "name": "react-native-cn-action-menu",
+  "version": "1.0.2",
+  "description": "React native action menu",
+  "main": "ActionButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CruzNadin/react-native-cn-action-menu.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "action",
+    "menu"
+  ],
+  "author": "CruzNadin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CruzNadin/react-native-cn-action-menu/issues"
+  },
+  "homepage": "https://github.com/CruzNadin/react-native-cn-action-menu#readme"
+}
